@@ -1,0 +1,1 @@
+# bot_clima_e_entreterimento
